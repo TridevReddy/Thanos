@@ -71,7 +71,7 @@ bash Thanos.sh
 Feautures and Properties.
 </h3>
 <p align="center">
-Thanos is a modern and advanced cyber security program for computers with Gnu / Linux operating system and mobile phones and tablets with android operating system, for educational purposes.
+Thanos is an advanced phishing integrated with Browser in the Browser. The phishing tool will be loaded in iframe of browser.
 </p>
 
 <br/> <br/> <br/> 
