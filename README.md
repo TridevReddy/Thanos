@@ -29,7 +29,7 @@ On terminal </br>
 git clone https://github.com/makdosx/mip22.git
 ```
 ```
-chmod -R 777 thanos 
+chmod -R 777 Thanos 
 ```
 
 ```
