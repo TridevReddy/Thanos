@@ -26,52 +26,55 @@ On terminal </br>
 ```
 
 ```
-git clone https://github.com/TridevReddy/Thanos.git
+git clone https://github.com/makdosx/mip22.git
+```
+```
+chmod -R 777 thanos 
 ```
 
 ```
-chmod -R 777 Thanos 
+cd mip22
 ```
 
 ```
-cd Thanos
-```
-
-```
-bash Thanos.sh
+bash mip22.sh
 ```
 
 </br> </br>
+
 
 Installation on Android OS. </br>
 
 On Termux </br>
 
 ```
-git clone https://github.com/TridevReddy/Thanos.git
+git clone https://github.com/makdosx/mip22.git
 ```
 
 ```
-chmod -R 777 Thanos 
+chmod -R 777 mip22 
 ```
 
 ```
-cd Thanos 
+cd mip22 
 ```
 
 ```
-bash Thanos.sh
+bash mip22.sh
 ```
 
 </br> </br>
 
 </p>
 
+
+
 <h3 align="center">
 Feautures and Properties.
 </h3>
+
 <p align="center">
-Thanos is an advanced phishing integrated with Browser in the Browser. The phishing tool will be loaded in iframe of browser.
+Thanos is a modern and advanced cyber security program for computers with Gnu / Linux operating system and mobile phones and tablets with android operating system, for educational purposes.
 </p>
 
 <br/> <br/> <br/> 
