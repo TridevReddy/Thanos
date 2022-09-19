@@ -139,7 +139,7 @@ ${BLUE}  |    |   |   Y  \/ __ \|   |  (  <_> )___ \ ${RED}
 ${BLUE}  |____|   |___|  (____  /___|  /\____/____  >${RED}
 ${BLUE}                \/     \/     \/           \/ ${RED}
 	${CYAN}Thanos is made for educational purpose only.
-	${CYAN}The authors Sibi Chakkaravarthy and Tridev Reddy are not responsible for any malicious use of the program.
+	${CYAN}The authors Tridev Reddy and Sibi Chakkaravarthy are not responsible for any malicious use of the program.
 	
 	EOF
 	printf "${RESETBG}"	
