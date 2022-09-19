@@ -26,18 +26,18 @@ On terminal </br>
 ```
 
 ```
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/TridevReddy/Thanos.git
 ```
 ```
 chmod -R 777 Thanos 
 ```
 
 ```
-cd mip22
+cd Thanos
 ```
 
 ```
-bash mip22.sh
+bash Thanos.sh
 ```
 
 </br> </br>
@@ -48,19 +48,19 @@ Installation on Android OS. </br>
 On Termux </br>
 
 ```
-git clone https://github.com/makdosx/mip22.git
+git clone https://github.com/TridevReddy/Thanos.git
 ```
 
 ```
-chmod -R 777 mip22 
+chmod -R 777 Thanos
 ```
 
 ```
-cd mip22 
+cd Thanos 
 ```
 
 ```
-bash mip22.sh
+bash Thanos.sh
 ```
 
 </br> </br>
